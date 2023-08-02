@@ -1,6 +1,6 @@
-###This is my C learning codes
+## This is my C learning codes
 
-Instruction:
+### Instruction:
 
   git config --global user.email "neocarlvenerayan@gmail.com" <br />
   git config --global user.name "neocarlvenerayan" <br />
